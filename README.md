@@ -6,4 +6,8 @@ I'm a student taking this course
 
 
 
-##Blog Post
+## Blog Post
+
+First sentence of blog post goes here... .[continue reading].(blog)
+
+
