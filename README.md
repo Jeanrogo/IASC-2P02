@@ -4,10 +4,8 @@
 
 I'm a student taking this course
 
+![](imagez/manatees.jpg)
 
+## Blog post
 
-## Blog Post
-
-First sentence of blog post goes here... .[continue reading].(blog)
-
-
+First sentence of blog post goes here... [continue reading](blog)
