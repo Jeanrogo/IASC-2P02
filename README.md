@@ -4,8 +4,6 @@
 
 I'm a student taking this course
 
-![](imagez/manatees.jpg)
 
 ## Blog post
-
-First sentence of blog post goes here... [continue reading](blog)
+The argument that visual forms can and should be used to represent cultural phenomena is justifiable from both Moretti and Drucker’s points of view.... [continue reading](blog)
